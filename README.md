@@ -1,0 +1,2 @@
+# zc-server-resourcepack
+
